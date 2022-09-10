@@ -1,0 +1,18 @@
+.travel_mainDiv
+{
+   border: 1px solid cyan;
+   background: yellow;
+}
+.travel_mainDiv img{
+    width: 100%;
+}
+.travel_mainDiv h5,.travel_mainDivp {
+
+    margin: 20px;
+}
+.page-header{
+    background:cyan ;
+}
+.container{
+    background: cyan;
+}
